@@ -1,0 +1,5 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "96b24fffd35f5d9a83692d5c6f4a4a95"
+build_time: [527086934, 680969000]
+inputs:
+  "/Users/satyen/Documents/DropdownListSwift/DropDownList/Classes/DropDownList.swift": [527078951, 0]

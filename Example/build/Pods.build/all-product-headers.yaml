@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/satyen/Documents/DropdownListSwift/Example/build/Debug-iphonesimulator/DropDownList.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "DropDownList-Swift.h",
+          'external-contents': "/Users/satyen/Documents/DropdownListSwift/Example/build/Debug-iphonesimulator/DropDownList.framework/Headers/DropDownList-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "DropDownList-umbrella.h",
+          'external-contents': "/Users/satyen/Documents/DropdownListSwift/Example/Pods/Target Support Files/DropDownList/DropDownList-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/satyen/Documents/DropdownListSwift/Example/build/Debug-iphonesimulator/DropDownList.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/satyen/Documents/DropdownListSwift/Example/build/Pods.build/Debug-iphonesimulator/DropDownList.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
