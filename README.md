@@ -22,7 +22,7 @@ pod "DropDownList"
 
 ## Author
 
-satyendra chauhan, satyendra.chauhan@appster.in
+satyendra chauhan, satyenchauhan@gmail.com
 
 ## License
 
