@@ -86,7 +86,6 @@ class DropDownList: UITextField, UITextFieldDelegate, UITableViewDataSource, UIT
             self.tblView.frame.size.height=0
         })
         textField.resignFirstResponder()
-        //self.tblView.removeFromSuperview()
         return true
     }
     func textFieldDidEndEditing(textField: UITextField) {
@@ -94,7 +93,6 @@ class DropDownList: UITextField, UITextFieldDelegate, UITableViewDataSource, UIT
             self.tblView.frame.size.height=0
             
         })
-        //self.tblView.removeFromSuperview()
     }
     func textFieldShouldReturn(textField: UITextField) -> Bool {
         UIView.animateWithDuration(0.5, animations: {
