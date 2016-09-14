@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
 s.name             = 'DropDownList'
-s.version          = '0.1.1'
+s.version          = '0.0.1'
 s.summary          = 'I am creating a open source library.'
 
 # This description is used to generate tags and improve search results.
